@@ -11,7 +11,7 @@ Pres `z`, `q`, `s`, `d` (in azerty) or top, left, down, right arrow to move the 
 Do the command :  `$ git clone https://github.com/debroucker/flappy_bird.git` to recover this repository.
 
 ## Start-up
-Lunch `index.html`, and enjoy.
+Launch `index.html`, and enjoy.
 
 ![home](img/succes1.png)
 
