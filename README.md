@@ -8,7 +8,7 @@ I did it in 2019, during my 2nd year of university license. This is a personnal 
 Pres `z`, `q`, `s`, `d` (in azerty) or top, left, down, right arrow to move the snake. eat apple to won points, and don't touch walls.
 
 ## To begin
-Do the command :  `$ git clone https://github.com/debroucker/flappy_bird.git` to recover this repository.
+Do the command :  `$ git clone https://github.com/debroucker/snake.git` to recover this repository.
 
 ## Start-up
 Launch `index.html`, and enjoy.
